@@ -33,4 +33,4 @@ Employee records are stored in the browser's local storage, ensuring that the da
 
 ## Credits
 
-- This project was created by [Your Name].
+- This project was created by Karan Chauhan.
