@@ -2,6 +2,9 @@
 
 This project implements an Employee Record System using HTML, CSS, and JavaScript. It allows users to add new employees based on their skills, experience, and other details, and also provides the functionality to remove them from the system.
 
+## Deployed Link -
+Link- https://employee-record-system-dun.vercel.app/
+
 ## Features
 
 - **Add New Employees**: Users can input employee details such as name, ID, department, experience, email address, and mobile number using the provided form.
